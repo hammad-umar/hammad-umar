@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hammad-umar.
-- 👀 I’m interested in JavaScript, TypeScript, Node.js, Nest.js, GraphQL, gRPC, PostgreSQL, React.js, and Next.js.
-- 🌱 I’m currently learning TypeScript and GO Language.
+- 👀 I’m interested in JavaScript, TypeScript, Node.js, Nest.js, Express.js, GraphQL, gRPC, PostgreSQL, MongoDB, Jest, React.js, and Next.js.
+- 🌱 I’m currently learning TypeScript.
 - 💞️ I’m looking to collaborate on Open Source Projects.
 - 📫 Reach Me: hammadumar8080@gmail.com
 
