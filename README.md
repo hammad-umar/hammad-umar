@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on JavScript, TypeScript, Nest.js, Express.js, GraphQL (Code First Approach / Schema First Approach), PostgreSQL, MongoDB, React, React Native, and Next.js.<br>👯 I’m looking to collaborate on Open Source Projects.<br>🌱 I’m currently learning Go,<br>💬 Ask me about JavaScript, TypeScript, GraphQL,and React.<br>
+🔭 I’m currently working on JavScript, TypeScript, Nest.js, Express.js, GraphQL (Code First Approach / Schema First Approach), PostgreSQL, MongoDB, React, React Native, and Next.js.<br>👯 I’m looking to collaborate on Open Source Projects.<br>🌱 I’m currently learning Go Language.<br>💬 Ask me about JavaScript, TypeScript, GraphQL,and React.<br>
 
 
 # 💻 Tech Stack:
